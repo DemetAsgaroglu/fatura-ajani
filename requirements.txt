@@ -1,0 +1,8 @@
+google-genai==2.33.0
+pydantic==2.14.2
+python-dotenv==1.2.4
+streamlit==1.65.0
+pypdfium2==5.14.0
+pillow==12.3.0
+numpy==2.2.6
+reportlab==5.1.0
