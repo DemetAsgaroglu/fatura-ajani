@@ -1,0 +1,28 @@
+{
+  "fatura": {
+    "firma": "Ege Lokanta ve Catering Hizmetleri Ltd. Şti.",
+    "vkn": "7015430393",
+    "fatura_no": "TST2026000000005",
+    "tarih": "10.02.2026",
+    "kalemler": [
+      {
+        "ad": "Beyaz Peynir",
+        "miktar": 1.5,
+        "birim_fiyat": 376.48,
+        "kdv_orani": 1.0,
+        "tutar": 564.72
+      },
+      {
+        "ad": "Kağıt Havlu (6'lı)",
+        "miktar": 2.0,
+        "birim_fiyat": 105.41,
+        "kdv_orani": 20.0,
+        "tutar": 210.82
+      }
+    ],
+    "ara_toplam": 775.54,
+    "kdv_toplam": 47.81,
+    "genel_toplam": 823.35
+  },
+  "hata": null
+}

@@ -1,0 +1,35 @@
+{
+  "fatura": {
+    "firma": "Toros Gıda Toptan Tic. A.Ş.",
+    "vkn": "3605766276",
+    "fatura_no": "TST2026000000027",
+    "tarih": "19.01.2026",
+    "kalemler": [
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 1.0,
+        "birim_fiyat": 447.29,
+        "kdv_orani": 10.0,
+        "tutar": 447.29
+      },
+      {
+        "ad": "Kahvaltı Servisi",
+        "miktar": 12.0,
+        "birim_fiyat": 164.96,
+        "kdv_orani": 10.0,
+        "tutar": 1979.52
+      },
+      {
+        "ad": "Web Sitesi Bakım Hizmeti",
+        "miktar": 12.0,
+        "birim_fiyat": 1569.06,
+        "kdv_orani": 20.0,
+        "tutar": 18828.72
+      }
+    ],
+    "ara_toplam": 21255.53,
+    "kdv_toplam": 4008.42,
+    "genel_toplam": 25263.95
+  },
+  "hata": null
+}

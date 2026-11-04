@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Toros Gıda Toptan Tic. A.Ş.",
+    "vkn": "3193149197",
+    "fatura_no": "TST2026000000019",
+    "tarih": "22.01.2026",
+    "kalemler": [
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 1.0,
+        "birim_fiyat": 351.55,
+        "kdv_orani": 10.0,
+        "tutar": 351.55
+      },
+      {
+        "ad": "Bulaşık Deterjanı (5 lt)",
+        "miktar": 5.0,
+        "birim_fiyat": 142.28,
+        "kdv_orani": 20.0,
+        "tutar": 711.4
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 10.0,
+        "birim_fiyat": 18.58,
+        "kdv_orani": 1.0,
+        "tutar": 185.8
+      },
+      {
+        "ad": "Web Sitesi Bakım Hizmeti",
+        "miktar": 1.0,
+        "birim_fiyat": 3450.86,
+        "kdv_orani": 20.0,
+        "tutar": 3450.86
+      }
+    ],
+    "ara_toplam": 4699.61,
+    "kdv_toplam": 869.47,
+    "genel_toplam": 5569.08
+  },
+  "hata": null
+}

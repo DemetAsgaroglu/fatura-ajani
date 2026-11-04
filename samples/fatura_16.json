@@ -1,0 +1,49 @@
+{
+  "fatura": {
+    "firma": "Ege Lokanta ve Catering Hizmetleri Ltd. Şti.",
+    "vkn": "5812236238",
+    "fatura_no": "TST2026000000016",
+    "tarih": "02.02.2026",
+    "kalemler": [
+      {
+        "ad": "Bulaşık Deterjanı (5 lt)",
+        "miktar": 1.0,
+        "birim_fiyat": 177.23,
+        "kdv_orani": 20.0,
+        "tutar": 177.23
+      },
+      {
+        "ad": "Web Sitesi Bakım Hizmeti",
+        "miktar": 10.0,
+        "birim_fiyat": 3252.65,
+        "kdv_orani": 20.0,
+        "tutar": 32526.5
+      },
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 1.0,
+        "birim_fiyat": 442.75,
+        "kdv_orani": 10.0,
+        "tutar": 442.75
+      },
+      {
+        "ad": "Kağıt Havlu (6'lı)",
+        "miktar": 10.0,
+        "birim_fiyat": 147.24,
+        "kdv_orani": 20.0,
+        "tutar": 1472.4
+      },
+      {
+        "ad": "Elektrik Tesisatı İşçiliği",
+        "miktar": 5.0,
+        "birim_fiyat": 549.31,
+        "kdv_orani": 20.0,
+        "tutar": 2746.55
+      }
+    ],
+    "ara_toplam": 37365.43,
+    "kdv_toplam": 7428.81,
+    "genel_toplam": 44794.24
+  },
+  "hata": null
+}

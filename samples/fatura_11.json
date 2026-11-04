@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Çınar Ofis Malzemeleri Tic. Ltd. Şti.",
+    "vkn": "8059826204",
+    "fatura_no": "TST2026000000011",
+    "tarih": "07.06.2026",
+    "kalemler": [
+      {
+        "ad": "Elektrik Tesisatı İşçiliği",
+        "miktar": 3.0,
+        "birim_fiyat": 741.03,
+        "kdv_orani": 20.0,
+        "tutar": 2223.09
+      },
+      {
+        "ad": "Pirinç (Baldo)",
+        "miktar": 1.5,
+        "birim_fiyat": 69.15,
+        "kdv_orani": 1.0,
+        "tutar": 103.73
+      },
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 10.0,
+        "birim_fiyat": 177.78,
+        "kdv_orani": 20.0,
+        "tutar": 1777.8
+      },
+      {
+        "ad": "Web Sitesi Bakım Hizmeti",
+        "miktar": 2.0,
+        "birim_fiyat": 5665.94,
+        "kdv_orani": 20.0,
+        "tutar": 11331.88
+      }
+    ],
+    "ara_toplam": 15436.5,
+    "kdv_toplam": 3067.6,
+    "genel_toplam": 18504.1
+  },
+  "hata": null
+}

@@ -1,0 +1,35 @@
+{
+  "fatura": {
+    "firma": "Deniz Yazılım ve Danışmanlık A.Ş.",
+    "vkn": "2181960015",
+    "fatura_no": "TST2026000000001",
+    "tarih": "22.04.2026",
+    "kalemler": [
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 3.0,
+        "birim_fiyat": 406.17,
+        "kdv_orani": 10.0,
+        "tutar": 1218.51
+      },
+      {
+        "ad": "Kahvaltı Servisi",
+        "miktar": 10.0,
+        "birim_fiyat": 183.07,
+        "kdv_orani": 10.0,
+        "tutar": 1830.7
+      },
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 4.0,
+        "birim_fiyat": 163.8,
+        "kdv_orani": 20.0,
+        "tutar": 655.2
+      }
+    ],
+    "ara_toplam": 3704.41,
+    "kdv_toplam": 666.79,
+    "genel_toplam": 4371.2
+  },
+  "hata": "kdv"
+}

@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Toros Gıda Toptan Tic. A.Ş.",
+    "vkn": "9453147374",
+    "fatura_no": "TST2026000000020",
+    "tarih": "14.07.2026",
+    "kalemler": [
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 12.0,
+        "birim_fiyat": 113.03,
+        "kdv_orani": 20.0,
+        "tutar": 1356.36
+      },
+      {
+        "ad": "Kağıt Havlu (6'lı)",
+        "miktar": 4.0,
+        "birim_fiyat": 130.84,
+        "kdv_orani": 20.0,
+        "tutar": 523.36
+      },
+      {
+        "ad": "Web Sitesi Bakım Hizmeti",
+        "miktar": 4.0,
+        "birim_fiyat": 4001.06,
+        "kdv_orani": 20.0,
+        "tutar": 16004.24
+      },
+      {
+        "ad": "Tükenmez Kalem (12'li)",
+        "miktar": 3.0,
+        "birim_fiyat": 66.85,
+        "kdv_orani": 20.0,
+        "tutar": 200.55
+      }
+    ],
+    "ara_toplam": 18084.51,
+    "kdv_toplam": 3616.9,
+    "genel_toplam": 21701.41
+  },
+  "hata": null
+}

@@ -1,0 +1,49 @@
+{
+  "fatura": {
+    "firma": "Çınar Ofis Malzemeleri Tic. Ltd. Şti.",
+    "vkn": "7648350301",
+    "fatura_no": "TST2026000000003",
+    "tarih": "11.06.2026",
+    "kalemler": [
+      {
+        "ad": "Yazılım Danışmanlık Hizmeti",
+        "miktar": 3.0,
+        "birim_fiyat": 1700.39,
+        "kdv_orani": 20.0,
+        "tutar": 5101.17
+      },
+      {
+        "ad": "Lazer Yazıcı Toneri",
+        "miktar": 10.0,
+        "birim_fiyat": 2198.2,
+        "kdv_orani": 20.0,
+        "tutar": 21982.0
+      },
+      {
+        "ad": "Dosya Klasörü",
+        "miktar": 12.0,
+        "birim_fiyat": 21.86,
+        "kdv_orani": 20.0,
+        "tutar": 262.32
+      },
+      {
+        "ad": "Kahvaltı Servisi",
+        "miktar": 2.0,
+        "birim_fiyat": 186.99,
+        "kdv_orani": 10.0,
+        "tutar": 373.98
+      },
+      {
+        "ad": "Web Sitesi Bakım Hizmeti",
+        "miktar": 4.0,
+        "birim_fiyat": 4861.56,
+        "kdv_orani": 20.0,
+        "tutar": 19446.24
+      }
+    ],
+    "ara_toplam": 47165.71,
+    "kdv_toplam": 9395.74,
+    "genel_toplam": 56561.45
+  },
+  "hata": null
+}

@@ -1,0 +1,49 @@
+{
+  "fatura": {
+    "firma": "Yıldız Bilişim Hizmetleri A.Ş.",
+    "vkn": "0947775207",
+    "fatura_no": "TST2026000000022",
+    "tarih": "10.05.2026",
+    "kalemler": [
+      {
+        "ad": "Lazer Yazıcı Toneri",
+        "miktar": 1.0,
+        "birim_fiyat": 1659.79,
+        "kdv_orani": 20.0,
+        "tutar": 1659.79
+      },
+      {
+        "ad": "Logo Tasarımı",
+        "miktar": 1.0,
+        "birim_fiyat": 3910.36,
+        "kdv_orani": 20.0,
+        "tutar": 3910.36
+      },
+      {
+        "ad": "Elektrik Tesisatı İşçiliği",
+        "miktar": 4.0,
+        "birim_fiyat": 442.59,
+        "kdv_orani": 20.0,
+        "tutar": 1770.36
+      },
+      {
+        "ad": "Bulaşık Deterjanı (5 lt)",
+        "miktar": 3.0,
+        "birim_fiyat": 161.32,
+        "kdv_orani": 20.0,
+        "tutar": 483.96
+      },
+      {
+        "ad": "Kağıt Havlu (6'lı)",
+        "miktar": 10.0,
+        "birim_fiyat": 162.76,
+        "kdv_orani": 20.0,
+        "tutar": 1627.6
+      }
+    ],
+    "ara_toplam": 9452.07,
+    "kdv_toplam": 1890.41,
+    "genel_toplam": 11342.48
+  },
+  "hata": null
+}

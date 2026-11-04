@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Kerem Doğan Elektrik Tesisat",
+    "vkn": "18412411888",
+    "fatura_no": "TST2026000000010",
+    "tarih": "21.03.2026",
+    "kalemler": [
+      {
+        "ad": "Yazılım Danışmanlık Hizmeti",
+        "miktar": 5.0,
+        "birim_fiyat": 1045.22,
+        "kdv_orani": 20.0,
+        "tutar": 5226.1
+      },
+      {
+        "ad": "Kahvaltı Servisi",
+        "miktar": 4.0,
+        "birim_fiyat": 225.81,
+        "kdv_orani": 10.0,
+        "tutar": 903.24
+      },
+      {
+        "ad": "Dosya Klasörü",
+        "miktar": 4.0,
+        "birim_fiyat": 42.44,
+        "kdv_orani": 20.0,
+        "tutar": 169.76
+      },
+      {
+        "ad": "Beyaz Peynir",
+        "miktar": 1.5,
+        "birim_fiyat": 234.77,
+        "kdv_orani": 1.0,
+        "tutar": 352.16
+      }
+    ],
+    "ara_toplam": 6651.26,
+    "kdv_toplam": 1173.01,
+    "genel_toplam": 7824.27
+  },
+  "hata": null
+}

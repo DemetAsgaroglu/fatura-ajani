@@ -1,0 +1,35 @@
+{
+  "fatura": {
+    "firma": "Mavi Kalem Kırtasiye Ltd. Şti.",
+    "vkn": "5310033096",
+    "fatura_no": "TST2026000000018",
+    "tarih": "20.03.2026",
+    "kalemler": [
+      {
+        "ad": "Tükenmez Kalem (12'li)",
+        "miktar": 1.0,
+        "birim_fiyat": 105.12,
+        "kdv_orani": 20.0,
+        "tutar": 105.12
+      },
+      {
+        "ad": "Kağıt Havlu (6'lı)",
+        "miktar": 3.0,
+        "birim_fiyat": 145.8,
+        "kdv_orani": 20.0,
+        "tutar": 437.4
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 4.0,
+        "birim_fiyat": 18.14,
+        "kdv_orani": 1.0,
+        "tutar": 72.56
+      }
+    ],
+    "ara_toplam": 615.08,
+    "kdv_toplam": 109.23,
+    "genel_toplam": 724.31
+  },
+  "hata": null
+}

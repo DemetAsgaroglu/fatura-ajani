@@ -1,0 +1,49 @@
+{
+  "fatura": {
+    "firma": "Deniz Yazılım ve Danışmanlık A.Ş.",
+    "vkn": "4123281200",
+    "fatura_no": "TST2026000000023",
+    "tarih": "29.07.2026",
+    "kalemler": [
+      {
+        "ad": "Beyaz Peynir",
+        "miktar": 2.0,
+        "birim_fiyat": 266.1,
+        "kdv_orani": 1.0,
+        "tutar": 532.2
+      },
+      {
+        "ad": "Kahvaltı Servisi",
+        "miktar": 4.0,
+        "birim_fiyat": 255.45,
+        "kdv_orani": 10.0,
+        "tutar": 1021.8
+      },
+      {
+        "ad": "Kağıt Havlu (6'lı)",
+        "miktar": 12.0,
+        "birim_fiyat": 98.54,
+        "kdv_orani": 20.0,
+        "tutar": 1182.48
+      },
+      {
+        "ad": "Yazılım Danışmanlık Hizmeti",
+        "miktar": 3.0,
+        "birim_fiyat": 2089.67,
+        "kdv_orani": 20.0,
+        "tutar": 6269.01
+      },
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 3.0,
+        "birim_fiyat": 131.14,
+        "kdv_orani": 20.0,
+        "tutar": 393.42
+      }
+    ],
+    "ara_toplam": 9398.91,
+    "kdv_toplam": 1676.48,
+    "genel_toplam": 11075.39
+  },
+  "hata": null
+}

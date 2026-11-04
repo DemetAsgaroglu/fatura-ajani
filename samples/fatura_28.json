@@ -1,0 +1,49 @@
+{
+  "fatura": {
+    "firma": "Toros Gıda Toptan Tic. A.Ş.",
+    "vkn": "5780913439",
+    "fatura_no": "TST2026000000028",
+    "tarih": "16.02.2026",
+    "kalemler": [
+      {
+        "ad": "Lazer Yazıcı Toneri",
+        "miktar": 12.0,
+        "birim_fiyat": 941.14,
+        "kdv_orani": 20.0,
+        "tutar": 11293.68
+      },
+      {
+        "ad": "Pirinç (Baldo)",
+        "miktar": 2.5,
+        "birim_fiyat": 91.14,
+        "kdv_orani": 1.0,
+        "tutar": 227.85
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 1.0,
+        "birim_fiyat": 14.59,
+        "kdv_orani": 1.0,
+        "tutar": 14.59
+      },
+      {
+        "ad": "Beyaz Peynir",
+        "miktar": 1.5,
+        "birim_fiyat": 266.94,
+        "kdv_orani": 1.0,
+        "tutar": 400.41
+      },
+      {
+        "ad": "Elektrik Tesisatı İşçiliği",
+        "miktar": 5.0,
+        "birim_fiyat": 615.34,
+        "kdv_orani": 20.0,
+        "tutar": 3076.7
+      }
+    ],
+    "ara_toplam": 15013.23,
+    "kdv_toplam": 2880.51,
+    "genel_toplam": 17893.74
+  },
+  "hata": null
+}

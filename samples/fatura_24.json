@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Güneş Temizlik Ürünleri San. ve Tic. Ltd. Şti.",
+    "vkn": "6488771904",
+    "fatura_no": "TST2026000000024",
+    "tarih": "10.08.2026",
+    "kalemler": [
+      {
+        "ad": "Kahvaltı Servisi",
+        "miktar": 3.0,
+        "birim_fiyat": 294.29,
+        "kdv_orani": 10.0,
+        "tutar": 882.87
+      },
+      {
+        "ad": "Yazılım Danışmanlık Hizmeti",
+        "miktar": 1.0,
+        "birim_fiyat": 2199.38,
+        "kdv_orani": 20.0,
+        "tutar": 2199.38
+      },
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 4.0,
+        "birim_fiyat": 143.98,
+        "kdv_orani": 20.0,
+        "tutar": 575.92
+      },
+      {
+        "ad": "Lazer Yazıcı Toneri",
+        "miktar": 2.0,
+        "birim_fiyat": 1473.38,
+        "kdv_orani": 20.0,
+        "tutar": 2946.76
+      }
+    ],
+    "ara_toplam": 6604.93,
+    "kdv_toplam": 1232.7,
+    "genel_toplam": 8087.63
+  },
+  "hata": "genel_toplam"
+}

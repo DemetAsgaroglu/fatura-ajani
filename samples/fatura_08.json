@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Selin Aydın - Grafik Tasarım",
+    "vkn": "83602606450",
+    "fatura_no": "TST2026000000008",
+    "tarih": "21.08.2026",
+    "kalemler": [
+      {
+        "ad": "Bulaşık Deterjanı (5 lt)",
+        "miktar": 12.0,
+        "birim_fiyat": 167.86,
+        "kdv_orani": 20.0,
+        "tutar": 2024.32
+      },
+      {
+        "ad": "Beyaz Peynir",
+        "miktar": 2.5,
+        "birim_fiyat": 254.83,
+        "kdv_orani": 1.0,
+        "tutar": 637.08
+      },
+      {
+        "ad": "Logo Tasarımı",
+        "miktar": 1.0,
+        "birim_fiyat": 6475.08,
+        "kdv_orani": 20.0,
+        "tutar": 6475.08
+      },
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 1.0,
+        "birim_fiyat": 414.47,
+        "kdv_orani": 10.0,
+        "tutar": 414.47
+      }
+    ],
+    "ara_toplam": 9550.95,
+    "kdv_toplam": 1747.7,
+    "genel_toplam": 11298.65
+  },
+  "hata": "satir"
+}

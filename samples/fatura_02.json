@@ -1,0 +1,35 @@
+{
+  "fatura": {
+    "firma": "Güneş Temizlik Ürünleri San. ve Tic. Ltd. Şti.",
+    "vkn": "0781618494",
+    "fatura_no": "TST2026000000002",
+    "tarih": "05.07.2026",
+    "kalemler": [
+      {
+        "ad": "Beyaz Peynir",
+        "miktar": 2.0,
+        "birim_fiyat": 343.69,
+        "kdv_orani": 1.0,
+        "tutar": 687.38
+      },
+      {
+        "ad": "Lazer Yazıcı Toneri",
+        "miktar": 1.0,
+        "birim_fiyat": 2146.81,
+        "kdv_orani": 20.0,
+        "tutar": 2146.81
+      },
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 1.0,
+        "birim_fiyat": 127.31,
+        "kdv_orani": 20.0,
+        "tutar": 127.31
+      }
+    ],
+    "ara_toplam": 2961.5,
+    "kdv_toplam": 461.69,
+    "genel_toplam": 3423.19
+  },
+  "hata": null
+}

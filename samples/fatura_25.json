@@ -1,0 +1,49 @@
+{
+  "fatura": {
+    "firma": "Selin Aydın - Grafik Tasarım",
+    "vkn": "56807154590",
+    "fatura_no": "TST2026000000025",
+    "tarih": "01.03.2026",
+    "kalemler": [
+      {
+        "ad": "Logo Tasarımı",
+        "miktar": 12.0,
+        "birim_fiyat": 5479.49,
+        "kdv_orani": 20.0,
+        "tutar": 65753.88
+      },
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 3.0,
+        "birim_fiyat": 354.79,
+        "kdv_orani": 10.0,
+        "tutar": 1064.37
+      },
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 12.0,
+        "birim_fiyat": 148.16,
+        "kdv_orani": 20.0,
+        "tutar": 1777.92
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 1.0,
+        "birim_fiyat": 13.63,
+        "kdv_orani": 1.0,
+        "tutar": 13.63
+      },
+      {
+        "ad": "Elektrik Tesisatı İşçiliği",
+        "miktar": 2.0,
+        "birim_fiyat": 863.84,
+        "kdv_orani": 20.0,
+        "tutar": 1727.68
+      }
+    ],
+    "ara_toplam": 70337.48,
+    "kdv_toplam": 13958.48,
+    "genel_toplam": 84295.96
+  },
+  "hata": null
+}

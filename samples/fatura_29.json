@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Selin Aydın - Grafik Tasarım",
+    "vkn": "57407482120",
+    "fatura_no": "TST2026000000029",
+    "tarih": "15.08.2026",
+    "kalemler": [
+      {
+        "ad": "Kahvaltı Servisi",
+        "miktar": 4.0,
+        "birim_fiyat": 218.53,
+        "kdv_orani": 10.0,
+        "tutar": 874.12
+      },
+      {
+        "ad": "Yazılım Danışmanlık Hizmeti",
+        "miktar": 4.0,
+        "birim_fiyat": 1038.86,
+        "kdv_orani": 20.0,
+        "tutar": 4155.44
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 10.0,
+        "birim_fiyat": 18.83,
+        "kdv_orani": 1.0,
+        "tutar": 188.3
+      },
+      {
+        "ad": "Bulaşık Deterjanı (5 lt)",
+        "miktar": 1.0,
+        "birim_fiyat": 182.7,
+        "kdv_orani": 20.0,
+        "tutar": 182.7
+      }
+    ],
+    "ara_toplam": 5400.56,
+    "kdv_toplam": 956.92,
+    "genel_toplam": 6357.48
+  },
+  "hata": null
+}

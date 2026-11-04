@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Deniz Yazılım ve Danışmanlık A.Ş.",
+    "vkn": "9909169985",
+    "fatura_no": "TST2026000000009",
+    "tarih": "11.06.2026",
+    "kalemler": [
+      {
+        "ad": "Dosya Klasörü",
+        "miktar": 3.0,
+        "birim_fiyat": 25.17,
+        "kdv_orani": 20.0,
+        "tutar": 75.51
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 2.0,
+        "birim_fiyat": 17.37,
+        "kdv_orani": 1.0,
+        "tutar": 34.74
+      },
+      {
+        "ad": "Beyaz Peynir",
+        "miktar": 2.5,
+        "birim_fiyat": 293.16,
+        "kdv_orani": 1.0,
+        "tutar": 732.9
+      },
+      {
+        "ad": "Web Sitesi Bakım Hizmeti",
+        "miktar": 1.0,
+        "birim_fiyat": 1541.92,
+        "kdv_orani": 20.0,
+        "tutar": 1541.92
+      }
+    ],
+    "ara_toplam": 2385.07,
+    "kdv_toplam": 331.16,
+    "genel_toplam": 2717.23
+  },
+  "hata": "genel_toplam"
+}

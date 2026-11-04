@@ -1,0 +1,35 @@
+{
+  "fatura": {
+    "firma": "Ege Lokanta ve Catering Hizmetleri Ltd. Şti.",
+    "vkn": "7871331500",
+    "fatura_no": "TST2026000000006",
+    "tarih": "11.10.2026",
+    "kalemler": [
+      {
+        "ad": "Kahvaltı Servisi",
+        "miktar": 1.0,
+        "birim_fiyat": 256.18,
+        "kdv_orani": 10.0,
+        "tutar": 256.18
+      },
+      {
+        "ad": "Dosya Klasörü",
+        "miktar": 1.0,
+        "birim_fiyat": 24.18,
+        "kdv_orani": 20.0,
+        "tutar": 24.18
+      },
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 1.0,
+        "birim_fiyat": 168.07,
+        "kdv_orani": 20.0,
+        "tutar": 168.07
+      }
+    ],
+    "ara_toplam": 448.43,
+    "kdv_toplam": 64.07,
+    "genel_toplam": 512.5
+  },
+  "hata": null
+}

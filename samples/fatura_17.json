@@ -1,0 +1,28 @@
+{
+  "fatura": {
+    "firma": "Ege Lokanta ve Catering Hizmetleri Ltd. Şti.",
+    "vkn": "6272980692",
+    "fatura_no": "TST2026000000017",
+    "tarih": "16.10.2026",
+    "kalemler": [
+      {
+        "ad": "Lazer Yazıcı Toneri",
+        "miktar": 10.0,
+        "birim_fiyat": 887.47,
+        "kdv_orani": 20.0,
+        "tutar": 8874.7
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 12.0,
+        "birim_fiyat": 13.45,
+        "kdv_orani": 1.0,
+        "tutar": 161.4
+      }
+    ],
+    "ara_toplam": 9036.1,
+    "kdv_toplam": 1776.55,
+    "genel_toplam": 10812.65
+  },
+  "hata": null
+}

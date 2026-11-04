@@ -1,0 +1,35 @@
+{
+  "fatura": {
+    "firma": "Güneş Temizlik Ürünleri San. ve Tic. Ltd. Şti.",
+    "vkn": "2160733751",
+    "fatura_no": "TST2026000000012",
+    "tarih": "06.06.2026",
+    "kalemler": [
+      {
+        "ad": "Dosya Klasörü",
+        "miktar": 3.0,
+        "birim_fiyat": 28.76,
+        "kdv_orani": 20.0,
+        "tutar": 86.28
+      },
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 4.0,
+        "birim_fiyat": 168.47,
+        "kdv_orani": 20.0,
+        "tutar": 673.88
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 4.0,
+        "birim_fiyat": 14.81,
+        "kdv_orani": 1.0,
+        "tutar": 59.24
+      }
+    ],
+    "ara_toplam": 819.4,
+    "kdv_toplam": 152.63,
+    "genel_toplam": 972.03
+  },
+  "hata": null
+}

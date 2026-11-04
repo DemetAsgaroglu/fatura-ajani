@@ -1,0 +1,35 @@
+{
+  "fatura": {
+    "firma": "Mavi Kalem Kırtasiye Ltd. Şti.",
+    "vkn": "4436995772",
+    "fatura_no": "TST2026000000014",
+    "tarih": "15.08.2026",
+    "kalemler": [
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 2.0,
+        "birim_fiyat": 391.3,
+        "kdv_orani": 10.0,
+        "tutar": 782.6
+      },
+      {
+        "ad": "Kağıt Havlu (6'lı)",
+        "miktar": 4.0,
+        "birim_fiyat": 151.85,
+        "kdv_orani": 20.0,
+        "tutar": 607.4
+      },
+      {
+        "ad": "Pirinç (Baldo)",
+        "miktar": 2.5,
+        "birim_fiyat": 58.74,
+        "kdv_orani": 1.0,
+        "tutar": 146.85
+      }
+    ],
+    "ara_toplam": 1536.85,
+    "kdv_toplam": 201.21,
+    "genel_toplam": 1738.06
+  },
+  "hata": null
+}

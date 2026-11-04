@@ -1,0 +1,49 @@
+{
+  "fatura": {
+    "firma": "Deniz Yazılım ve Danışmanlık A.Ş.",
+    "vkn": "6763201632",
+    "fatura_no": "TST2026000000015",
+    "tarih": "01.04.2026",
+    "kalemler": [
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 2.0,
+        "birim_fiyat": 163.12,
+        "kdv_orani": 20.0,
+        "tutar": 326.24
+      },
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 5.0,
+        "birim_fiyat": 467.01,
+        "kdv_orani": 10.0,
+        "tutar": 2335.05
+      },
+      {
+        "ad": "Dosya Klasörü",
+        "miktar": 12.0,
+        "birim_fiyat": 34.54,
+        "kdv_orani": 20.0,
+        "tutar": 414.48
+      },
+      {
+        "ad": "Lazer Yazıcı Toneri",
+        "miktar": 10.0,
+        "birim_fiyat": 2103.5,
+        "kdv_orani": 20.0,
+        "tutar": 21035.0
+      },
+      {
+        "ad": "Kağıt Havlu (6'lı)",
+        "miktar": 12.0,
+        "birim_fiyat": 197.66,
+        "kdv_orani": 20.0,
+        "tutar": 2371.92
+      }
+    ],
+    "ara_toplam": 26482.69,
+    "kdv_toplam": 5063.03,
+    "genel_toplam": 31545.72
+  },
+  "hata": null
+}

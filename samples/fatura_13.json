@@ -1,0 +1,49 @@
+{
+  "fatura": {
+    "firma": "Ege Lokanta ve Catering Hizmetleri Ltd. Şti.",
+    "vkn": "5698169348",
+    "fatura_no": "TST2026000000013",
+    "tarih": "23.01.2026",
+    "kalemler": [
+      {
+        "ad": "A4 Fotokopi Kağıdı (500'lü)",
+        "miktar": 3.0,
+        "birim_fiyat": 125.96,
+        "kdv_orani": 20.0,
+        "tutar": 377.88
+      },
+      {
+        "ad": "Toplantı İkramı (Öğle Yemeği)",
+        "miktar": 1.0,
+        "birim_fiyat": 466.71,
+        "kdv_orani": 10.0,
+        "tutar": 466.71
+      },
+      {
+        "ad": "Pirinç (Baldo)",
+        "miktar": 2.5,
+        "birim_fiyat": 79.93,
+        "kdv_orani": 1.0,
+        "tutar": 199.83
+      },
+      {
+        "ad": "Logo Tasarımı",
+        "miktar": 1.0,
+        "birim_fiyat": 7318.53,
+        "kdv_orani": 20.0,
+        "tutar": 7318.53
+      },
+      {
+        "ad": "Ekmek",
+        "miktar": 4.0,
+        "birim_fiyat": 16.06,
+        "kdv_orani": 1.0,
+        "tutar": 64.24
+      }
+    ],
+    "ara_toplam": 8427.19,
+    "kdv_toplam": 1588.6,
+    "genel_toplam": 10015.79
+  },
+  "hata": null
+}

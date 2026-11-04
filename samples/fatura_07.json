@@ -1,0 +1,42 @@
+{
+  "fatura": {
+    "firma": "Yıldız Bilişim Hizmetleri A.Ş.",
+    "vkn": "1656670104",
+    "fatura_no": "TST2026000000007",
+    "tarih": "26.07.2026",
+    "kalemler": [
+      {
+        "ad": "Pirinç (Baldo)",
+        "miktar": 2.0,
+        "birim_fiyat": 62.61,
+        "kdv_orani": 1.0,
+        "tutar": 125.22
+      },
+      {
+        "ad": "Logo Tasarımı",
+        "miktar": 12.0,
+        "birim_fiyat": 3841.09,
+        "kdv_orani": 20.0,
+        "tutar": 46093.08
+      },
+      {
+        "ad": "Lazer Yazıcı Toneri",
+        "miktar": 2.0,
+        "birim_fiyat": 1137.45,
+        "kdv_orani": 20.0,
+        "tutar": 2274.9
+      },
+      {
+        "ad": "Dosya Klasörü",
+        "miktar": 3.0,
+        "birim_fiyat": 41.61,
+        "kdv_orani": 20.0,
+        "tutar": 124.83
+      }
+    ],
+    "ara_toplam": 48618.03,
+    "kdv_toplam": 9699.82,
+    "genel_toplam": 58317.85
+  },
+  "hata": null
+}
