@@ -2,6 +2,8 @@
 
 Bu proje, fatura fotoğrafını veya PDF'ini okuyup bilgileri çıkaran, çıkan sonucu kodla kontrol eden ve kullanıcı onayladıktan sonra kaydeden bir ajandır. Faturayı Gemini okur; toplamların, KDV'nin ve vergi numarasının doğruluğunu ise model değil Python kodu kontrol eder. Model hiçbir zaman kendisi kayıt yapmaz.
 
+**Canlı demo:** https://fatura-ajani.streamlit.app/
+
 ## Nasıl Çalışıyor?
 
 ```text
