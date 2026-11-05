@@ -1,0 +1,52 @@
+{
+  "pdf": {
+    "fatura": 30,
+    "alan_dogrulugu_ilk": "%100.0 (240/240)",
+    "alan_dogrulugu_son": "%100.0 (240/240)",
+    "tam_dogru_fatura_ilk": "%100.0 (30/30)",
+    "tam_dogru_fatura_son": "%100.0 (30/30)",
+    "alan_bazinda_son": {
+      "firma": "%100.0 (30/30)",
+      "vkn": "%100.0 (30/30)",
+      "fatura_no": "%100.0 (30/30)",
+      "tarih": "%100.0 (30/30)",
+      "ara_toplam": "%100.0 (30/30)",
+      "kdv_toplam": "%100.0 (30/30)",
+      "genel_toplam": "%100.0 (30/30)",
+      "kalemler": "%100.0 (30/30)"
+    }
+  },
+  "foto": {
+    "fatura": 30,
+    "alan_dogrulugu_ilk": "%98.3 (236/240)",
+    "alan_dogrulugu_son": "%98.3 (236/240)",
+    "tam_dogru_fatura_ilk": "%86.7 (26/30)",
+    "tam_dogru_fatura_son": "%86.7 (26/30)",
+    "alan_bazinda_son": {
+      "firma": "%100.0 (30/30)",
+      "vkn": "%100.0 (30/30)",
+      "fatura_no": "%86.7 (26/30)",
+      "tarih": "%100.0 (30/30)",
+      "ara_toplam": "%100.0 (30/30)",
+      "kdv_toplam": "%100.0 (30/30)",
+      "genel_toplam": "%100.0 (30/30)",
+      "kalemler": "%100.0 (30/30)"
+    }
+  },
+  "hata_tespiti": {
+    "hatali_faturada_uyari": "%100.0 (12/12)",
+    "temiz_faturada_yanlis_uyari": "%0.0 (0/48)",
+    "hatali_faturada_yazan_deger_korundu": "%83.3 (10/12)"
+  },
+  "duzeltme_turu": {
+    "calisan": 12,
+    "kota_yuzunden_yapilamayan": 0,
+    "yanlis_okunan_alani_duzelten": 0,
+    "dogru_alani_bozan": 0
+  },
+  "okuyan_model": {
+    "gemini-3.6-flash": 6,
+    "gemini-3.1-flash-lite": 54
+  },
+  "ortalama_sure_sn": 6.7
+}
